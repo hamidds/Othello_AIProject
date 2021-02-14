@@ -11,8 +11,5 @@ This projcet has been impelemented in three phases.
      In order to improve the algorithm's performance, we need to prune the minimax tree which can become really large. Therfore 
      we use **alpha-beta pruning algorthim**.
      
-     
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+* Phase 3
+   * In this phase we add an **evolutionary algorithm** which helps us to estimate the paramteres of the minimax algorithm in phase 2.
