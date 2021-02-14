@@ -1,5 +1,5 @@
 # Othello_AIProject
-A single-player Othello implementation with minimax algorithm.
+A single-player Othello implementation with minimax algorithm.\n
 This projcet has been impelemented in three phases.
 
 * Phase 1
